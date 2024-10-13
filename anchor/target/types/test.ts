@@ -5,7 +5,7 @@
  * IDL can be found at `target/idl/test.json`.
  */
 export type Test = {
-  "address": "DLw5fJNrrBCWoy75aukoDApBZm4MEvaWCvPJoqtLSg1p",
+  "address": "8CiSktE6XqC51o7ZHwCn8yYgnFjcXbEypecE8zpLsy59",
   "metadata": {
     "name": "test",
     "version": "0.1.0",
@@ -138,14 +138,14 @@ export type Test = {
     {
       "name": "test",
       "discriminator": [
-        255,
-        176,
-        4,
-        245,
-        188,
-        253,
+        21,
         124,
-        25
+        154,
+        78,
+        247,
+        222,
+        89,
+        189
       ]
     }
   ],

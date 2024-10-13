@@ -21,7 +21,7 @@ export function getTestProgramId(cluster: Cluster) {
     case 'devnet':
     case 'testnet':
       // This is the program ID for the Test program on devnet and testnet.
-      return new PublicKey('CounNZdmsQmWh7uVngV9FXW2dZ6zAgbJyYsvBpqbykg')
+      return new PublicKey('8CiSktE6XqC51o7ZHwCn8yYgnFjcXbEypecE8zpLsy59')
     case 'mainnet-beta':
     default:
       return TEST_PROGRAM_ID
